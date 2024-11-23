@@ -7,7 +7,7 @@ skills = {
   code: ['C++', 'Java','SwiftUI','Python'], 
   frameworks: ['SwiftUI','LlamaIndex','Langchain','FastAPI', 'Django', 'TensorFlow', 'Keras'],
   databases: ['Firebase', 'Pinecone Vector DB', 'Supabase' ,'SQL'],
-  cloud: ['GCP'],
+  cloud: ['GCP' , 'AWS'],
 }
 ```
 
